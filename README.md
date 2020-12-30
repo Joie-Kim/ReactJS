@@ -14,3 +14,12 @@
 
 [리액트를 다루는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160508796&orderClick=LAG&Kc=)<br>
 본 레파지토리는 위 책을 보며, 예제를 실습한 코드를 모아뒀습니다.
+
+### 공부한 내용
+해당 디렉터리의 `README.md`에 정리 했습니다.
+#### 📎 [chap1~chap7](https://github.com/Joie-Kim/ReactJS/tree/master/hello-react)
+#### 📎 [chap8](https://github.com/Joie-Kim/ReactJS/tree/master/hooks-tutorial)
+#### 📎 [chap9](https://github.com/Joie-Kim/ReactJS/tree/master/styling-react)
+#### 📎 [chap10~chap11](https://github.com/Joie-Kim/ReactJS/tree/master/todo-app)
+#### 📎 [chap12](https://github.com/Joie-Kim/ReactJS/tree/master/immer-tutorial)
+#### 📎 [chap13](https://github.com/Joie-Kim/ReactJS/tree/master/router-tutorial)
