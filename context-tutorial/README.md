@@ -39,3 +39,5 @@
 3. 동적 Context 사용하기
     - Context의 value에 무조건 상태값만 있어야 하는 건 아니다. 함수도 전달이 가능하다.
     - state와 actions 객체를 따로 분리하면 다른 컴포넌트에서 사용할 때 편하다.
+4. Consumer 대신 Hook 또는 static contextType 사용하기
+    - `Hook`은 함수형 컴포넌트에서만 사용할 수 있고, 클래스형 컴포넌트에서는 사용할 수 없다.
