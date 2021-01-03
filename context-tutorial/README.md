@@ -36,3 +36,6 @@
     <RenderPropsSample>{value => 2 * value}</RenderPropsSample>
     ```
     `RenderPropsSample`에게 children props로 파라미터에 2를 곱해서 반환하는 함수를 전달하면 해당 컴포넌트에서는 이 함수에 5를 인자로 넣어서 <u>결과: 10</u>을 렌더링한다.
+3. 동적 Context 사용하기
+    - Context의 value에 무조건 상태값만 있어야 하는 건 아니다. 함수도 전달이 가능하다.
+    - state와 actions 객체를 따로 분리하면 다른 컴포넌트에서 사용할 때 편하다.
