@@ -7,6 +7,7 @@
 ## 공부한 내용
 ### 13장 리액트 라우터로 SPA 개발하기
 1. SPA란?
+    - 공부한 내용을 <u>[블로그](https://joie-kim.github.io/SPA/)</u>에 정리해뒀다!
 2. react-router-dom 라이브러리 기본 사용법
     - Route 컴포넌트로 특정 주소에 컴포넌트 연결
         ```jsx
@@ -48,4 +49,4 @@
     모든 규칙과 일치하지 않을 때 보여 줄 `Not Found` 페이지도 구현할 수 있다.
     - NavLink 컴포넌트<br>
     : Link와 비슷하게 쓰인다. 현재 경로와 Link에서 사용하는 경로가 일치하는 경우 특정 스타일 혹은 CSS 클래스를 적용할 수 있다.<br>
-    NavLink에서 링크가 활성화되었을 때의 스타일을 적용할 때는 activeStyle 값을, CSS 클래스를 적용할 때는 activeClassName 값을 props에 넣어 주면 된다.ㄴ
+    NavLink에서 링크가 활성화되었을 때의 스타일을 적용할 때는 activeStyle 값을, CSS 클래스를 적용할 때는 activeClassName 값을 props에 넣어 주면 된다.
