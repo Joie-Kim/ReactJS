@@ -41,3 +41,6 @@
     - state와 actions 객체를 따로 분리하면 다른 컴포넌트에서 사용할 때 편하다.
 4. Consumer 대신 Hook 또는 static contextType 사용하기
     - `Hook`은 함수형 컴포넌트에서만 사용할 수 있고, 클래스형 컴포넌트에서는 사용할 수 없다.
+    - 클래스형 컴포넌트에서 Context를 좀 더 쉽게 사용하고 싶다면 `static contextType`을 정의하는 방법이 있다.
+    >- 장점: 클래스 메서드에서도 Context에 넣어 둔 함수를 호출할 수 있다.
+    >- 단점: 한 클래스에서 하나의 Context 밖에 사용하지 못한다.
