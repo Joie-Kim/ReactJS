@@ -23,3 +23,7 @@
 - [todo-app](https://github.com/Joie-Kim/ReactJS/tree/master/todo-app)
 - [immer-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/immer-tutorial)
 - [router-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/router-tutorial)
+- [news-viewer](https://github.com/Joie-Kim/ReactJS/tree/master/news-viewer)
+- [context-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/context-tutorial)
+- [vanila-redux](https://github.com/Joie-Kim/ReactJS/tree/master/vanila-redux)
+- [react-redux-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/react-redux-tutorial)
