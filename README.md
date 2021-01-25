@@ -24,3 +24,4 @@
 - [context-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/context-tutorial)
 - [vanila-redux](https://github.com/Joie-Kim/ReactJS/tree/master/vanila-redux)
 - [react-redux-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/react-redux-tutorial)
+- [learn-redux-middleware](https://github.com/Joie-Kim/ReactJS/tree/master/learn-redux-middleware)
