@@ -25,3 +25,5 @@
 - [vanila-redux](https://github.com/Joie-Kim/ReactJS/tree/master/vanila-redux)
 - [react-redux-tutorial](https://github.com/Joie-Kim/ReactJS/tree/master/react-redux-tutorial)
 - [learn-redux-middleware](https://github.com/Joie-Kim/ReactJS/tree/master/learn-redux-middleware)
+- [splitting-sample](https://github.com/Joie-Kim/ReactJS/tree/master/splitting-sample)
+- [ssr-recipe](https://github.com/Joie-Kim/ReactJS/tree/master/ssr-recipe)
